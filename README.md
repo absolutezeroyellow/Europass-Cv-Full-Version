@@ -241,4 +241,4 @@ This repository serves as the official landing page for **Europass CV**. The sof
 **Get the most recent version of Europass CV today!**
 
 ---
-**Last updated:** 2026-09-22 14:32:29 UTC
+**Last updated:** 2026-09-22 18:39:18 UTC
